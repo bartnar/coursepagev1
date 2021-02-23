@@ -1,0 +1,29 @@
+.post-buttons-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 20px 10px 0 10px;
+    background-color: var(--color-background);
+    border: none;
+    padding: 10px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: aliceblue;
+}
+
+.button .list-item-title {
+    font-size: 18px;
+}
+
+.button .list-item-icon {
+    color: var(--color-green);
+}
