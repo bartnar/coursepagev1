@@ -1,12 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
-@import "../src/Header/Header.css";
-@import "ListItem/ListItem.css";
-@import "Menu/MenuLeft.css";
-@import "Members/Members.css";
-@import "CommentsSection/CommentsSection.css";
-@import "Post/Post.css";
-@import "Button/Button.css";
-@import "AsideBlock/AsideBlock.css";
 
 
 * {

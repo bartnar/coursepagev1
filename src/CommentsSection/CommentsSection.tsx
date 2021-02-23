@@ -1,5 +1,6 @@
 import React from "react";
 import ListItem from "../ListItem/ListItem";
+import "./CommentsSection.css";
 
 const commentsSectionTitleAction = ['RECENT', 'BY MILESTONE'];
 

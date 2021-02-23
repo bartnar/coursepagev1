@@ -2,6 +2,7 @@ import React from "react";
 import ListItem from "../ListItem/ListItem";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faEnvelope, faSearch, faUser} from "@fortawesome/free-solid-svg-icons";
+import "./Members.css"
 
 const members = [
     {

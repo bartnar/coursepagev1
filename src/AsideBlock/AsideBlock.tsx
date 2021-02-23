@@ -3,6 +3,7 @@ import ListItem from "../ListItem/ListItem";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faEnvelope, faUser} from "@fortawesome/free-solid-svg-icons";
 import Button from "../Button/Button";
+import "./AsideBlock.css";
 
 const asideComments = [
     {

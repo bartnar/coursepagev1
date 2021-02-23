@@ -3,8 +3,17 @@ import Nav from "../Nav/Nav";
 import {HeaderNavigationData} from "../data/data";
 import ListItem from "../ListItem/ListItem";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faChalkboardTeacher, faChevronDown, faSignOutAlt, faUser ,faBookmark ,faSignal, faComments} from "@fortawesome/free-solid-svg-icons";
+import {
+    faBookmark,
+    faChalkboardTeacher,
+    faChevronDown,
+    faComments,
+    faSignal,
+    faSignOutAlt,
+    faUser
+} from "@fortawesome/free-solid-svg-icons";
 import Badge from "../Badge/Badge";
+import './Header.css';
 
 
 export default function Header() {

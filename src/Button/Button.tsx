@@ -1,5 +1,6 @@
 import React from "react";
 import ListItem from "../ListItem/ListItem";
+import "./Button.css";
 
 interface ButtonInterface {
     title?: string | JSX.Element,

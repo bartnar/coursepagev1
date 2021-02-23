@@ -3,6 +3,7 @@ import Button from "../Button/Button";
 import ListItem from "../ListItem/ListItem";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faComment, faThumbsUp, faUser} from "@fortawesome/free-solid-svg-icons";
+import "./Post.css";
 
 const postHeaderSecondaryTitle = ['James Dilon', 'in', 'Top Ads Copied By Hand'];
 const postText = "Well it's 2021 and new tools have come out and the good old ones have stayed. Since I've decided to start a small freelancer company, what are some tools ever..."

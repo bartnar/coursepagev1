@@ -9,6 +9,7 @@ import {
     faHouseUser,
     faUserFriends
 } from "@fortawesome/free-solid-svg-icons";
+import './MenuLeft.css';
 
 export default function Menu() {
     return (

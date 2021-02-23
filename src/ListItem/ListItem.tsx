@@ -1,6 +1,8 @@
 import React from "react";
 import {Link} from "react-router-dom";
 
+import './ListItem.css';
+
 interface ListItemInterface {
     title?: string | React.ReactChildren | JSX.Element | JSX.Element[],
     secondaryTitle?: string | React.ReactChildren | JSX.Element | JSX.Element[],
